@@ -4,3 +4,4 @@ npm-debug.log*
 .DS_Store
 config/config.init.env
 postman/
+config/config.env
